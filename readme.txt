@@ -24,3 +24,5 @@ https://opensource.stackexchange.com/questions/1399/can-gpl-licenced-software-be
 
 That means, I can continue working with PyQt5! Awesome!!!
 
+QTDesigner can be used to generate python code, useful especially for layouts!!
+
